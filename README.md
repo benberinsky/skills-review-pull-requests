@@ -19,7 +19,7 @@ _Collaborate and work together on GitHub._
   Define terms and link to docs.github.com.
 -->
 
-## Step 5: Apply the changes that are suggested
+## Step 5: Apply the changes that are suggested to the code
 
 _Nicely done suggesting changes! :partying_face:_
 
